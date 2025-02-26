@@ -1,0 +1,106 @@
+
+.f12{
+    display: flex;
+    justify-content: space-between; /* Align logo and phone login to opposite sides */
+    align-items: center; /* Vertically align items in the center */
+    padding: 10px;
+}
+.main {
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.logo img {
+    max-width: 100%; /* Ensure responsive image scaling */
+}
+
+
+.phone_login {
+    font-size: 10px;
+    background-color: lightpink;
+    padding: 5px 10px;
+}
+
+
+.login {
+    background-color: offwhite;
+    color: black;
+    border: none;
+    padding: 5px 15px;
+    cursor: pointer;
+    
+}
+
+
+.login:hover {
+    background-color: red;
+    color: white;
+}
+
+.f22 {
+    text-align: left;
+    padding: 50px;
+}
+
+.aurbhi{
+    margin-left: 95px;
+    font-size: 10;
+}
+input[type="Submit"] {
+    width: 80px;  /* Adjust width */
+    height: 21px;  /* Adjust height */
+    background-color: red;
+}
+input[type="Submit"]:hover{
+    background-color: red;
+}
+input[type="Submit"]{
+    background-color: lightcoral;
+}
+
+.f22{
+    display: flex;
+    /* justify-content: space-between; Align logo and phone login to opposite sides */
+    align-items: center; /* Vertically align items in the center */
+    padding: 10px;
+}
+
+
+.f3_line1{
+    font-size: 8px;
+    color: red;       
+}
+
+.f4{
+    text-align: center;
+    font-size: 10px;
+    margin-top: 30px;
+}
+
+.f4text{
+    font-family:Garamond, serif;
+    
+}
+
+.f5{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.f51_text{
+    font-size: 7px;
+    color: grey;
+}
+
+.footer{
+    text-align: center;
+    font-size: 8px;
+}
+
+.address{
+    text-align: center;
+}
+
+.add{
+    font-size: 6px;
+}

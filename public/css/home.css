@@ -1,0 +1,41 @@
+.main
+{
+    margin-left: 10;
+}
+
+.logo
+{
+    float: left;
+}
+
+.phone_login
+{
+    float: right; 
+    font-size: 10;
+    background-color: lightpink;      
+}
+.login
+{
+    
+        background-color: offwhite; /* Default background color */
+        color:  black; /* Text color */
+        border: none; /* Remove border */
+}
+button:hover
+{
+    background-color: red;
+}
+.f2_b1 {
+    margin-top: 70px; /* Add valid units */
+    margin-left: 0px;
+    font-size: 16px; /* Ensure consistent font size */
+    float: left;
+}
+.f22{
+    .clearfix::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+    
+}
